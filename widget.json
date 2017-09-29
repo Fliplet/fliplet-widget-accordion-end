@@ -13,6 +13,7 @@
       "fliplet-studio-ui"
     ],
     "assets": [
+      "css/interface.css",
       "js/interface.js"
     ]
   },
