@@ -1,0 +1,7 @@
+.collapse-end {
+  display: none;
+}
+
+.mode-interact .collapse-end {
+  display: block;
+}

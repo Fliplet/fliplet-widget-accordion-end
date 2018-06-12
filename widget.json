@@ -21,6 +21,9 @@
     "dependencies": [
       "jquery",
       "bootstrap"
+    ],
+    "assets": [
+      "css/build.css"
     ]
   }
 }
