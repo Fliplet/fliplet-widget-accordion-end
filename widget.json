@@ -23,7 +23,8 @@
       "bootstrap"
     ],
     "assets": [
-      "css/build.css"
+      "css/build.css",
+      "js/build.js"
     ]
   }
 }
