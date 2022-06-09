@@ -1,3 +1,7 @@
 Fliplet.Widget.instance('collapse-end', function() {
-  $(this).translate();
+  var $container = $(this);
+
+  Fliplet().then(function() {
+    $container.translate();
+  });
 });
